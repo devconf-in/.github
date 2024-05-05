@@ -1,6 +1,6 @@
 ## Devconf IN
 
-DevConf.IN is the annual developer's conference organized by Red Hat, India. The conference provides a platform to the FOSS community participants and enthusiasts to come together and engage in knowledge sharing activities through technical talks, workshops, panel discussions, hackathons and much more.
+[DevConf.IN](https://devconf.info/in) is the annual developer's conference organized by [Red Hat, India](https://redhat.com) . The conference provides a platform to the FOSS community participants and enthusiasts to come together and engage in knowledge sharing activities through technical talks, workshops, panel discussions, hackathons and much more.
 
 There is no admission or ticket charge for DevConf.IN events. However, you are required to complete a free registration. Talks, presentations and workshops will all be in English.
 
